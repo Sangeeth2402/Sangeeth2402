@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sangeeth Raj</h1>
 <h3 align="center">Final Year ECE Student | Aspiring Front-End Developer | Java Enthusiast.</h3>
+
 <img align="" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif">
+<img align="center" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif">
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangeeth2402" alt="sangeeth2402" /></a> </p>
 
